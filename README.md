@@ -16,7 +16,7 @@ A segunda consulta retorna a quantidade de clientes e o somatório de vendas rea
 A terceira consulta retorna a quantidade de clientes e o somatório de vendas realizadas por vendedor, com critérios diferentes para os anos de 2003 e 2004.
 ## Questão 2
 
-##Considere que o seu trabalho de PIT evoluiu e se transformou em um negócio bem sucedido com vários clientes, equipe de suporte e desenvolvedores. Em função disso, vocês deverão seguir as instruções abaixo:
+## Considere que o seu trabalho de PIT evoluiu e se transformou em um negócio bem sucedido com vários clientes, equipe de suporte e desenvolvedores. Em função disso, vocês deverão seguir as instruções abaixo:
 
 ### A)Criar os papéis (holes) de Desenvolvedor, Suporte e Consultor:;
 ### B)Atribuir para o papel de desenvolvedor privilégio (Grant)  total no banco de dados do Produto;
